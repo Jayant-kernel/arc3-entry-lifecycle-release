@@ -1,0 +1,26 @@
+{
+  "accepted_checkpoint": 57586341,
+  "script_version_id": 361715082,
+  "accepted_public_score": "27.05",
+  "own_license": "MIT-0; scoped contributions only",
+  "eligibility": "UNRESOLVED; no prize clearance claimed",
+  "files": {
+    "LICENSE": "1a6057d754c9b4c505f10d4c54e0fae5dca46f8b6bf2f8b923de9db45a1ca6cc",
+    "LICENSE-SCOPE.md": "5ee893aa57752ef64ef092c284845e9daf0ee249a057ce32963fb454bf1bcc84",
+    "README.md": "fc5e3aff3d3eb2fbe9494bc4100fb4bcff03e9f305da127398e77dc12c23d937",
+    "THIRD-PARTY-NOTICES.md": "26824b03d9c409c85af0b150805b189c5dcf205b7b2b414756f71bc88839a64f",
+    "entry/UPSTREAM-LICENSE.txt": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5",
+    "entry/diagnostics-manifest.json": "64dfbeb7bc825290fa6325ef0ebe55434f29b4d8f5c96098ccdb397a7a68eab7",
+    "entry/entry_diagnostics.py": "ea756b7f89f59d58393671bd1d505737361e0013eb274bb931cc16a1138220aa",
+    "entry/entry_policy.py": "fa2ab69d797f7ce947d176fedd9854774c03a719a40cc4efa7ef20c715fd60f6",
+    "entry/entry_runtime.py": "0d5e2078d89fd0113795994f007a6480ed109c60b923edcc827442d82c2006fa",
+    "entry/entry_worker.py": "b8f04fbb2e40b4cff47ea8a41a461f5249f775f468b8cf6c945228f1ef9ca4fe",
+    "entry/harness-changes.patch": "80aef535ee80970622127f3ee1917e1b127db22ebe07ece40fc8558a63b4484d",
+    "entry/input-pins.json": "9c5c3b4a9a3c72e49ebba9026276c967320f4f7f877d1c8e7648d40366b4da35",
+    "entry/kernel-metadata.json": "8046500f67147b896f07b20f1dc8470c4b81148665fae19e45fde2b13093752d",
+    "entry/manifest.json": "4f7631c36554f40db8f1248a0df1ba6487bd01c2ed72b7ebadb962195df03545",
+    "entry/notebook.ipynb": "3e1388109f40a3f7c1566095739668b791b8d87c2f80ddfe63e37525b11b863b",
+    "entry/source-manifest.json": "a0e5e3fa08ad4f0c29ef8e2a54325d9513992b0eceadd9459c452b003bb23fa3",
+    "verify_release.py": "4a617c615e71213a87c3120dafe38947a17ecb671173dfd05eccdaf11e162289"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "ARC3-Inference/inference/framework/solver.py": {
+    "before_sha256": "3c83c4706082c50677cc29c787bb0408dcc27361088a300ba347ba932c547823",
+    "after_sha256": "8e7844a01a738b0a94595a6d40ebb12d628ff3e0a8d0c06d1b7995cd5e4c4cdd",
+    "changes": [
+      "opt-in diagnostic early return: _write_transcript_html",
+      "opt-in diagnostic early return: _HarnessGameSession._write_analysis_html",
+      "opt-in diagnostic early return: _HarnessGameSession.write_viewer_payload",
+      "opt-in diagnostic early return: _HarnessGameSession._append_initial_viewer_event",
+      "opt-in diagnostic early return: _HarnessGameSession._append_analysis_viewer_event",
+      "opt-in diagnostic early return: _HarnessGameSession._append_action_viewer_event",
+      "runtime state moved to validated owned tmpfs",
+      "transcript path uses null device; no touch",
+      "private monotonic soft hint and game stop boundary"
+    ]
+  },
+  "ARC3-Inference/inference/agent/tool_agent.py": {
+    "before_sha256": "485ef8a98308654b9dbb69535bc3c6ed3723c80bbcd5a4538e3ce181e6fda615",
+    "after_sha256": "683519322034b76f9fdc387c36e7022b760b5a0bff02abcedf5646914b39a8c2",
+    "changes": [
+      "opt-in diagnostic early return: _append_transcript_section",
+      "opt-in diagnostic early return: _append_request_snapshot",
+      "opt-in diagnostic early return: _write_prompt_log_snapshot",
+      "direct transcript header uses null device; no None fallback",
+      "reject new HTTP request attempts after private monotonic work end"
+    ]
+  },
+  "tufa-arc-agi-framework/src/taaf/benchmark.py": {
+    "before_sha256": "d273e8056f83a3d1557d31c50c9716ed205258c8b1ba31747367a743d51c9497",
+    "after_sha256": "3e19a6199629a51edfde985d1a31197480b6b61a5a36e14008fc27392daa7afa",
+    "changes": [
+      "opt-in diagnostic early return: Benchmark._save_json",
+      "opt-in diagnostic early return: Benchmark._save_intermediate_states",
+      "opt-in diagnostic early return: Benchmark._save_games",
+      "opt-in diagnostic early return: Benchmark._save_solver",
+      "opt-in diagnostic early return: Benchmark._generate_diagnostics"
+    ]
+  },
+  "ARC3-Inference/inference/agent/python_tool_sandbox.py": {
+    "before_sha256": "c2208578220862aceb352138b9c3a3bb7347f1e6a4ad09d1d9cb3f2ee3507477",
+    "after_sha256": "9041b57e1c3acb1ebf6d4f20e2d4041eae0404232143333a633759b4d26c7f7d",
+    "changes": [
+      "sandbox stays in supervisor-owned worker process group",
+      "per-tool timeout kills only its tool child in private mode"
+    ]
+  }
+}

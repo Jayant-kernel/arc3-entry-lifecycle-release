@@ -1,0 +1,193 @@
+{
+  "hashed_files": {
+    "competitions/arc-prize-2026-arc-agi-3/arc_agi_3_wheels/arc_agi-0.9.8-py3-none-any.whl": "aeca1663db342e91cb8fc96cf0c83e2fa39db1640bc1298e80a8d522e3af70f3",
+    "datasets/dfranzen/pennyroyal-v253/wheels/sglang-0.5.19+gd00d88efc8d6-cp312-cp312-linux_x86_64.whl": "d0620216732b82b6efd4f8a78cc9b5f55343a4d3837fdfa3bcbb841b7718a225",
+    "competitions/arc-prize-2026-arc-agi-3/arc_agi_3_wheels/arcengine-0.9.3-py3-none-any.whl": "5f9739d6d0055780a4581fd6fe09066bb08775c4c8212c9adcca2eb008aef59c",
+    "datasets/dfranzen/pennyroyal-v253/requirements.lock": "4b0ee12848c1e7c3a51b0819de3a1ae63a967313fd1f62b9e2ca6b9c82b8da02",
+    "datasets/dfranzen/pennyroyal-v253/dependencies.lock": "9906b9a51622f58696dd18b4a30eccf2e9a2c70bebd6276b9d49bc1a2afd0cb4"
+  },
+  "models": {
+    "models/dfranzen/intel-qwen3.8-flash-next-w4a16-autoround/transformers/default/1": {
+      "path": "models/dfranzen/intel-qwen3.8-flash-next-w4a16-autoround/transformers/default/1",
+      "weight_files": [
+        {
+          "name": "model-00001-of-00017.safetensors",
+          "bytes": 2899311784
+        },
+        {
+          "name": "model-00003-of-00017.safetensors",
+          "bytes": 5370548192
+        },
+        {
+          "name": "model-00004-of-00017.safetensors",
+          "bytes": 5370910416
+        },
+        {
+          "name": "model-00005-of-00017.safetensors",
+          "bytes": 5370140704
+        },
+        {
+          "name": "model-00006-of-00017.safetensors",
+          "bytes": 5370205184
+        },
+        {
+          "name": "model-00007-of-00017.safetensors",
+          "bytes": 5370927288
+        },
+        {
+          "name": "model-00008-of-00017.safetensors",
+          "bytes": 5344445352
+        },
+        {
+          "name": "model-00009-of-00017.safetensors",
+          "bytes": 5370355648
+        },
+        {
+          "name": "model-00010-of-00017.safetensors",
+          "bytes": 5370927288
+        },
+        {
+          "name": "model-00011-of-00017.safetensors",
+          "bytes": 5324173744
+        },
+        {
+          "name": "model-00012-of-00017.safetensors",
+          "bytes": 5370438520
+        },
+        {
+          "name": "model-00013-of-00017.safetensors",
+          "bytes": 5370927288
+        },
+        {
+          "name": "model-00014-of-00017.safetensors",
+          "bytes": 5342689856
+        },
+        {
+          "name": "model-00015-of-00017.safetensors",
+          "bytes": 5050474736
+        },
+        {
+          "name": "model-00017-of-00017.safetensors",
+          "bytes": 1284526608
+        },
+        {
+          "name": "model-ple-00001-of-00022.safetensors",
+          "bytes": 4800023992
+        },
+        {
+          "name": "model-ple-00002-of-00022.safetensors",
+          "bytes": 4800024000
+        },
+        {
+          "name": "model-ple-00003-of-00022.safetensors",
+          "bytes": 4800024000
+        },
+        {
+          "name": "model-ple-00004-of-00022.safetensors",
+          "bytes": 4800024000
+        },
+        {
+          "name": "model-ple-00005-of-00022.safetensors",
+          "bytes": 4800024000
+        },
+        {
+          "name": "model-ple-00006-of-00022.safetensors",
+          "bytes": 4800024000
+        },
+        {
+          "name": "model-ple-00007-of-00022.safetensors",
+          "bytes": 4800024000
+        },
+        {
+          "name": "model-ple-00008-of-00022.safetensors",
+          "bytes": 4800024000
+        },
+        {
+          "name": "model-ple-00009-of-00022.safetensors",
+          "bytes": 4800024000
+        },
+        {
+          "name": "model-ple-00010-of-00022.safetensors",
+          "bytes": 4800024000
+        },
+        {
+          "name": "model-ple-00011-of-00022.safetensors",
+          "bytes": 4800024000
+        },
+        {
+          "name": "model-ple-00012-of-00022.safetensors",
+          "bytes": 4800024000
+        },
+        {
+          "name": "model-ple-00013-of-00022.safetensors",
+          "bytes": 4800024000
+        },
+        {
+          "name": "model-ple-00014-of-00022.safetensors",
+          "bytes": 4800024000
+        },
+        {
+          "name": "model-ple-00015-of-00022.safetensors",
+          "bytes": 4800024000
+        },
+        {
+          "name": "model-ple-00016-of-00022.safetensors",
+          "bytes": 4800024000
+        },
+        {
+          "name": "model-ple-00017-of-00022.safetensors",
+          "bytes": 4800024000
+        },
+        {
+          "name": "model-ple-00018-of-00022.safetensors",
+          "bytes": 4800024008
+        },
+        {
+          "name": "model-ple-00019-of-00022.safetensors",
+          "bytes": 4800024008
+        },
+        {
+          "name": "model-ple-00020-of-00022.safetensors",
+          "bytes": 4800024008
+        },
+        {
+          "name": "model-ple-00021-of-00022.safetensors",
+          "bytes": 4800024008
+        },
+        {
+          "name": "model-ple-00022-of-00022.safetensors",
+          "bytes": 1600008000
+        },
+        {
+          "name": "model_extra_tensors.safetensors",
+          "bytes": 5214492152
+        }
+      ],
+      "index_sha256": "32732da58649d48911ae5f7efaf9d400d7e573d03a241aa483095f817ba7bd61",
+      "weight_bytes": 181196006784
+    },
+    "models/dfranzen/albucino-qwen3-8-flash-next-drafter/transformers/default/1": {
+      "path": "models/dfranzen/albucino-qwen3-8-flash-next-drafter/transformers/default/1",
+      "weight_files": [
+        {
+          "name": "mtp-dense.safetensors",
+          "bytes": 2723937440
+        },
+        {
+          "name": "mtp-routed-experts-int4.safetensors",
+          "bytes": 1416156712
+        }
+      ],
+      "index_sha256": "a3e600dae46c7f32e2ff42e6c40f46f75fb71ae7d5b73011b666664e5d54f6a2",
+      "weight_bytes": 4140094152
+    }
+  },
+  "dataset_versions": {
+    "dfranzen/pennyroyal-v253": 1,
+    "dfranzen/taaf-kaggle-source-bundle-copy": 1
+  },
+  "limits": [
+    "Model version/index/shard sizes pinned; full tensor byte hashes unavailable.",
+    "Mounted source must pass raw/effective hashes before imports or deserialization."
+  ]
+}
